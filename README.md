@@ -31,8 +31,9 @@ data.getWorldPopulationByYear(year)
 
 // population of world from begging (1960) to year (2020)
 data.getWorldPopulationData()
+```
 
-Feel free to contribute and make ir better
+Feel free to contribute and make it better
 
 ## Possible future additions
 
