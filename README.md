@@ -1,7 +1,6 @@
 #   WORLD COUNTRIES REGIONS POPULATION DATA
 
-[![version](https://img.shields.io/npm/v/world-countries-population-data)](https://www.npmjs.com/package/world-countries-population-data)
-
+[![version](https://img.shields.io/npm/v/world-countries-population-data)](https://www.npmjs.com/package/world-countries-population-data)  
 
 Population data of countries, regions, total world, continents, unions from year 1960 to 2020
 
