@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sahil Verma <iamsahil1910@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsahil1910/world-countries-population-data"
+  },
+  "homepage": "https://github.com/iamsahil1910/world-countries-population-data#readme",
+  "keywords": [
+    "world",
+    "continent",
+    "region",
+    "poulation"
+  ]
 }
