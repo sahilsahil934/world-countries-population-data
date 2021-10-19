@@ -1,6 +1,6 @@
-#   WORLD COUNTRIES REGIONS HISTORIC POPULATION
+#   WORLD COUNTRIES REGIONS POPULATION DATA
 
-[![version](https://img.shields.io/npm/v/world-countries-historic-population)](https://www.npmjs.com/package/world-countries-historic-population)
+[![version](https://img.shields.io/npm/v/world-countries-population-data)](https://www.npmjs.com/package/world-countries-population-data)
 
 
 Population data of countries, regions, total world, continents, unions from year 1960 to 2020
@@ -8,14 +8,14 @@ Population data of countries, regions, total world, continents, unions from year
 ## Installing
 
 ``` bash
-npm i world-countries-historic-population
+npm i world-countries-population-data
 ```
 
 
 ## Example usage
 
 ``` javascript
-const data = require('world-countries-historic-population')
+const data = require('world-countries-population-data')
 
 // to get population of each country in a particular year
 data.getPopulationByYear(year)
@@ -42,16 +42,14 @@ Feel free to contribute and make it better
 ### Make search not case sensative
 
 
-and then include in your `webpack.config.js`
-
 ## How to contribute
 
 These are the steps required:
 
 ``` bash
 # Clone the repo (or better your fork of it)
-git clone https://github.com/iamsahil1910/world-countries-historic-population.git
-cd world-countries-historic-population
+git clone https://github.com/iamsahil1910/world-countries-population-data.git
+cd world-countries-population-data
 
 # Create new branch
 git checkout -b new-branch
