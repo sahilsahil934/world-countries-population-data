@@ -1,16 +1,18 @@
 {
   "name": "world-countries-population-data",
-  "version": "1.0.6",
+  "version": "0.0.0-development",
   "description": "Population data of world, region, continent and countries since 1960",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "commit": "git-cz",
+    "semantic-release": "semantic-release"
   },
   "author": "Sahil Verma <iamsahil1910@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamsahil1910/world-countries-population-data"
+    "url": "https://github.com/iamsahil1910/world-countries-population-data"
   },
   "homepage": "https://github.com/iamsahil1910/world-countries-population-data#readme",
   "keywords": [
@@ -20,6 +22,13 @@
     "poulation"
   ],
   "devDependencies": {
-    "jest": "27.3.1"
+    "cz-conventional-changelog": "^3.3.0",
+    "jest": "27.3.1",
+    "semantic-release": "^18.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
