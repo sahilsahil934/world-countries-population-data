@@ -16,6 +16,24 @@ const getPopulationByCountryAndYear = function (countryName, year) {
     return dataByCountry[String(countryName).toLowerCase()][String(year)] || null
 }
 
+// to get population by country code and optional year
+const getPopulationByCountryCode = function (countryCode, year = null) {
+    let countryName = null;
+    for (const [key, value] of Object.entries(dataByCountry)) {
+        countryName = (value['Country Code'] === countryCode.toUpperCase()) ? key : null
+        if (countryName !== null) 
+        {
+            break;
+        }
+    }
+    // optional specific year population
+    if (year) {
+        return dataByCountry[String(countryName).toLowerCase()][String(year)] || null
+    }
+    // get population of every year
+    return dataByCountry[String(countryName).toLowerCase()] || null
+}
+
 // to get population of world by particular year
 const getWorldPopulationByYear = function (year) {
     return dataByYear[String(year)]["world"] || null
@@ -32,5 +50,6 @@ const getWorldPopulationData = function () {
     getPopulationOfCountry,
     getPopulationByCountryAndYear,
     getWorldPopulationByYear,
-    getWorldPopulationData
+    getWorldPopulationData,
+    getPopulationByCountryCode
   };
