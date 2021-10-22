@@ -25,6 +25,9 @@ data.getPopulationOfCountry(countryName)
 // to get population by year and country
 data.getPopulationByCountryAndYear(countryName, year)
 
+// to get population by country code and optional year (example USA, IND)
+const getPopulationByCountryCode = function (countryCode, year = null)
+
 // to get population of world by particular year
 data.getWorldPopulationByYear(year)
 
@@ -36,9 +39,7 @@ Feel free to contribute and make it better
 
 ## Possible future additions
 
-### Search by Country Code
 ### Make continent and region data more easily accessible
-### Make search not case sensative
 
 
 ## How to contribute
