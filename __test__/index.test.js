@@ -3,7 +3,8 @@ const {
   getPopulationOfCountry,
   getPopulationByCountryAndYear,
   getWorldPopulationByYear,
-  getWorldPopulationData
+  getWorldPopulationData,
+  getPopulationByCountryCode
 } = require('../index')
 
 test('Get population by year', async () => {
@@ -41,3 +42,18 @@ test('Get world population data', async () => {
   expect(population).not.toBe(null)
   expect(Number(population['1971'])).toEqual(3760516757)
 })
+
+test('Get Population by Country Code', async () => {
+  const population = getPopulationByCountryCode('IND')
+
+  expect(population).not.toBe(null)
+  expect(Number(population['2020'])).toEqual(1380004385)
+})
+
+test('Get Population by Country Code (with Year)', async () => {
+  const population = getPopulationByCountryCode('IND', 2000)
+
+  expect(population).not.toBe(null)
+  expect(Number(population)).toEqual(1056575548)
+})
+
