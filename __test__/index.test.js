@@ -50,10 +50,11 @@ test('Get Population by Country Code', async () => {
   expect(Number(population['2020'])).toEqual(1380004385)
 })
 
-test('Get Population by Country Code (with Year)', async () => {
-  const population = getPopulationByCountryCode('IND', 2000)
+test('Get population by country code (with year)', async () => {
+  const population = getPopulationByCountryCode('AND', 1980)
+
+  console.log(population)
 
   expect(population).not.toBe(null)
-  expect(Number(population)).toEqual(1056575548)
+  expect(Number(population)).toEqual(36063)
 })
-
