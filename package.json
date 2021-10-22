@@ -4,7 +4,7 @@
   "description": "Population data of world, region, continent and countries since 1960",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Sahil Verma <iamsahil1910@gmail.com>",
   "license": "MIT",
