@@ -1,5 +1,5 @@
 {
-    "Aruba": {
+    "aruba": {
         "Country Name": "Aruba",
         "Country Code": "ABW",
         "1960": "54208",
@@ -65,7 +65,7 @@
         "2020": "106766",
         "": ""
     },
-    "Africa Eastern and Southern": {
+    "africa eastern and southern": {
         "Country Name": "Africa Eastern and Southern",
         "Country Code": "AFE",
         "1960": "130836765",
@@ -131,7 +131,7 @@
         "2020": "677243299",
         "": ""
     },
-    "Afghanistan": {
+    "afghanistan": {
         "Country Name": "Afghanistan",
         "Country Code": "AFG",
         "1960": "8996967",
@@ -197,7 +197,7 @@
         "2020": "38928341",
         "": ""
     },
-    "Africa Western and Central": {
+    "africa western and central": {
         "Country Name": "Africa Western and Central",
         "Country Code": "AFW",
         "1960": "96396419",
@@ -263,7 +263,7 @@
         "2020": "458803476",
         "": ""
     },
-    "Angola": {
+    "angola": {
         "Country Name": "Angola",
         "Country Code": "AGO",
         "1960": "5454938",
@@ -329,7 +329,7 @@
         "2020": "32866268",
         "": ""
     },
-    "Albania": {
+    "albania": {
         "Country Name": "Albania",
         "Country Code": "ALB",
         "1960": "1608800",
@@ -395,7 +395,7 @@
         "2020": "2837743",
         "": ""
     },
-    "Andorra": {
+    "andorra": {
         "Country Name": "Andorra",
         "Country Code": "AND",
         "1960": "13410",
@@ -461,7 +461,7 @@
         "2020": "77265",
         "": ""
     },
-    "Arab World": {
+    "arab world": {
         "Country Name": "Arab World",
         "Country Code": "ARB",
         "1960": "92197715",
@@ -527,7 +527,7 @@
         "2020": "436080728",
         "": ""
     },
-    "United Arab Emirates": {
+    "united arab emirates": {
         "Country Name": "United Arab Emirates",
         "Country Code": "ARE",
         "1960": "92417",
@@ -593,7 +593,7 @@
         "2020": "9890400",
         "": ""
     },
-    "Argentina": {
+    "argentina": {
         "Country Name": "Argentina",
         "Country Code": "ARG",
         "1960": "20481781",
@@ -659,7 +659,7 @@
         "2020": "45376763",
         "": ""
     },
-    "Armenia": {
+    "armenia": {
         "Country Name": "Armenia",
         "Country Code": "ARM",
         "1960": "1874119",
@@ -725,7 +725,7 @@
         "2020": "2963234",
         "": ""
     },
-    "American Samoa": {
+    "american samoa": {
         "Country Name": "American Samoa",
         "Country Code": "ASM",
         "1960": "20127",
@@ -791,7 +791,7 @@
         "2020": "55197",
         "": ""
     },
-    "Antigua and Barbuda": {
+    "antigua and barbuda": {
         "Country Name": "Antigua and Barbuda",
         "Country Code": "ATG",
         "1960": "54132",
@@ -857,7 +857,7 @@
         "2020": "97928",
         "": ""
     },
-    "Australia": {
+    "australia": {
         "Country Name": "Australia",
         "Country Code": "AUS",
         "1960": "10276477",
@@ -923,7 +923,7 @@
         "2020": "25687041",
         "": ""
     },
-    "Austria": {
+    "austria": {
         "Country Name": "Austria",
         "Country Code": "AUT",
         "1960": "7047539",
@@ -989,7 +989,7 @@
         "2020": "8917205",
         "": ""
     },
-    "Azerbaijan": {
+    "azerbaijan": {
         "Country Name": "Azerbaijan",
         "Country Code": "AZE",
         "1960": "3895398",
@@ -1055,7 +1055,7 @@
         "2020": "10110116",
         "": ""
     },
-    "Burundi": {
+    "burundi": {
         "Country Name": "Burundi",
         "Country Code": "BDI",
         "1960": "2797925",
@@ -1121,7 +1121,7 @@
         "2020": "11890781",
         "": ""
     },
-    "Belgium": {
+    "belgium": {
         "Country Name": "Belgium",
         "Country Code": "BEL",
         "1960": "9153489",
@@ -1187,7 +1187,7 @@
         "2020": "11555997",
         "": ""
     },
-    "Benin": {
+    "benin": {
         "Country Name": "Benin",
         "Country Code": "BEN",
         "1960": "2431617",
@@ -1253,7 +1253,7 @@
         "2020": "12123198",
         "": ""
     },
-    "Burkina Faso": {
+    "burkina faso": {
         "Country Name": "Burkina Faso",
         "Country Code": "BFA",
         "1960": "4829289",
@@ -1319,7 +1319,7 @@
         "2020": "20903278",
         "": ""
     },
-    "Bangladesh": {
+    "bangladesh": {
         "Country Name": "Bangladesh",
         "Country Code": "BGD",
         "1960": "48013505",
@@ -1385,7 +1385,7 @@
         "2020": "164689383",
         "": ""
     },
-    "Bulgaria": {
+    "bulgaria": {
         "Country Name": "Bulgaria",
         "Country Code": "BGR",
         "1960": "7867374",
@@ -1451,7 +1451,7 @@
         "2020": "6927288",
         "": ""
     },
-    "Bahrain": {
+    "bahrain": {
         "Country Name": "Bahrain",
         "Country Code": "BHR",
         "1960": "162429",
@@ -1517,7 +1517,7 @@
         "2020": "1701583",
         "": ""
     },
-    "Bahamas, The": {
+    "bahamas, the": {
         "Country Name": "Bahamas, The",
         "Country Code": "BHS",
         "1960": "109532",
@@ -1583,7 +1583,7 @@
         "2020": "393248",
         "": ""
     },
-    "Bosnia and Herzegovina": {
+    "bosnia and herzegovina": {
         "Country Name": "Bosnia and Herzegovina",
         "Country Code": "BIH",
         "1960": "3225664",
@@ -1649,7 +1649,7 @@
         "2020": "3280815",
         "": ""
     },
-    "Belarus": {
+    "belarus": {
         "Country Name": "Belarus",
         "Country Code": "BLR",
         "1960": "8198000",
@@ -1715,7 +1715,7 @@
         "2020": "9398861",
         "": ""
     },
-    "Belize": {
+    "belize": {
         "Country Name": "Belize",
         "Country Code": "BLZ",
         "1960": "92068",
@@ -1781,7 +1781,7 @@
         "2020": "397621",
         "": ""
     },
-    "Bermuda": {
+    "bermuda": {
         "Country Name": "Bermuda",
         "Country Code": "BMU",
         "1960": "44400",
@@ -1847,7 +1847,7 @@
         "2020": "63903",
         "": ""
     },
-    "Bolivia": {
+    "bolivia": {
         "Country Name": "Bolivia",
         "Country Code": "BOL",
         "1960": "3656961",
@@ -1913,7 +1913,7 @@
         "2020": "11673029",
         "": ""
     },
-    "Brazil": {
+    "brazil": {
         "Country Name": "Brazil",
         "Country Code": "BRA",
         "1960": "72179235",
@@ -1979,7 +1979,7 @@
         "2020": "212559409",
         "": ""
     },
-    "Barbados": {
+    "barbados": {
         "Country Name": "Barbados",
         "Country Code": "BRB",
         "1960": "230985",
@@ -2045,7 +2045,7 @@
         "2020": "287371",
         "": ""
     },
-    "Brunei Darussalam": {
+    "brunei darussalam": {
         "Country Name": "Brunei Darussalam",
         "Country Code": "BRN",
         "1960": "81707",
@@ -2111,7 +2111,7 @@
         "2020": "437483",
         "": ""
     },
-    "Bhutan": {
+    "bhutan": {
         "Country Name": "Bhutan",
         "Country Code": "BTN",
         "1960": "223284",
@@ -2177,7 +2177,7 @@
         "2020": "771612",
         "": ""
     },
-    "Botswana": {
+    "botswana": {
         "Country Name": "Botswana",
         "Country Code": "BWA",
         "1960": "502733",
@@ -2243,7 +2243,7 @@
         "2020": "2351625",
         "": ""
     },
-    "Central African Republic": {
+    "central african republic": {
         "Country Name": "Central African Republic",
         "Country Code": "CAF",
         "1960": "1501668",
@@ -2309,7 +2309,7 @@
         "2020": "4829764",
         "": ""
     },
-    "Canada": {
+    "canada": {
         "Country Name": "Canada",
         "Country Code": "CAN",
         "1960": "17909009",
@@ -2375,7 +2375,7 @@
         "2020": "38005238",
         "": ""
     },
-    "Central Europe and the Baltics": {
+    "central europe and the baltics": {
         "Country Name": "Central Europe and the Baltics",
         "Country Code": "CEB",
         "1960": "91401764",
@@ -2441,7 +2441,7 @@
         "2020": "102246330",
         "": ""
     },
-    "Switzerland": {
+    "switzerland": {
         "Country Name": "Switzerland",
         "Country Code": "CHE",
         "1960": "5327827",
@@ -2507,7 +2507,7 @@
         "2020": "8636896",
         "": ""
     },
-    "Channel Islands": {
+    "channel islands": {
         "Country Name": "Channel Islands",
         "Country Code": "CHI",
         "1960": "109419",
@@ -2573,7 +2573,7 @@
         "2020": "173859",
         "": ""
     },
-    "Chile": {
+    "chile": {
         "Country Name": "Chile",
         "Country Code": "CHL",
         "1960": "8132988",
@@ -2639,7 +2639,7 @@
         "2020": "19116209",
         "": ""
     },
-    "China": {
+    "china": {
         "Country Name": "China",
         "Country Code": "CHN",
         "1960": "667070000",
@@ -2705,7 +2705,7 @@
         "2020": "1402112000",
         "": ""
     },
-    "Cote d'Ivoire": {
+    "cote d'ivoire": {
         "Country Name": "Cote d'Ivoire",
         "Country Code": "CIV",
         "1960": "3503559",
@@ -2771,7 +2771,7 @@
         "2020": "26378275",
         "": ""
     },
-    "Cameroon": {
+    "cameroon": {
         "Country Name": "Cameroon",
         "Country Code": "CMR",
         "1960": "5176920",
@@ -2837,7 +2837,7 @@
         "2020": "26545864",
         "": ""
     },
-    "Congo, Dem. Rep.": {
+    "congo, dem. rep.": {
         "Country Name": "Congo, Dem. Rep.",
         "Country Code": "COD",
         "1960": "15248256",
@@ -2903,7 +2903,7 @@
         "2020": "89561404",
         "": ""
     },
-    "Congo, Rep.": {
+    "congo, rep.": {
         "Country Name": "Congo, Rep.",
         "Country Code": "COG",
         "1960": "1018254",
@@ -2969,7 +2969,7 @@
         "2020": "5518092",
         "": ""
     },
-    "Colombia": {
+    "colombia": {
         "Country Name": "Colombia",
         "Country Code": "COL",
         "1960": "16057714",
@@ -3035,7 +3035,7 @@
         "2020": "50882884",
         "": ""
     },
-    "Comoros": {
+    "comoros": {
         "Country Name": "Comoros",
         "Country Code": "COM",
         "1960": "191122",
@@ -3101,7 +3101,7 @@
         "2020": "869595",
         "": ""
     },
-    "Cabo Verde": {
+    "cabo verde": {
         "Country Name": "Cabo Verde",
         "Country Code": "CPV",
         "1960": "201770",
@@ -3167,7 +3167,7 @@
         "2020": "555988",
         "": ""
     },
-    "Costa Rica": {
+    "costa rica": {
         "Country Name": "Costa Rica",
         "Country Code": "CRI",
         "1960": "1330787",
@@ -3233,7 +3233,7 @@
         "2020": "5094114",
         "": ""
     },
-    "Caribbean small states": {
+    "caribbean small states": {
         "Country Name": "Caribbean small states",
         "Country Code": "CSS",
         "1960": "4194711",
@@ -3299,7 +3299,7 @@
         "2020": "7442291",
         "": ""
     },
-    "Cuba": {
+    "cuba": {
         "Country Name": "Cuba",
         "Country Code": "CUB",
         "1960": "7141241",
@@ -3365,7 +3365,7 @@
         "2020": "11326616",
         "": ""
     },
-    "Curacao": {
+    "curacao": {
         "Country Name": "Curacao",
         "Country Code": "CUW",
         "1960": "124826",
@@ -3431,7 +3431,7 @@
         "2020": "155014",
         "": ""
     },
-    "Cayman Islands": {
+    "cayman islands": {
         "Country Name": "Cayman Islands",
         "Country Code": "CYM",
         "1960": "7870",
@@ -3497,7 +3497,7 @@
         "2020": "65720",
         "": ""
     },
-    "Cyprus": {
+    "cyprus": {
         "Country Name": "Cyprus",
         "Country Code": "CYP",
         "1960": "572933",
@@ -3563,7 +3563,7 @@
         "2020": "1207361",
         "": ""
     },
-    "Czech Republic": {
+    "czech republic": {
         "Country Name": "Czech Republic",
         "Country Code": "CZE",
         "1960": "9602006",
@@ -3629,7 +3629,7 @@
         "2020": "10698896",
         "": ""
     },
-    "Germany": {
+    "germany": {
         "Country Name": "Germany",
         "Country Code": "DEU",
         "1960": "72814900",
@@ -3695,7 +3695,7 @@
         "2020": "83240525",
         "": ""
     },
-    "Djibouti": {
+    "djibouti": {
         "Country Name": "Djibouti",
         "Country Code": "DJI",
         "1960": "83634",
@@ -3761,7 +3761,7 @@
         "2020": "988002",
         "": ""
     },
-    "Dominica": {
+    "dominica": {
         "Country Name": "Dominica",
         "Country Code": "DMA",
         "1960": "60020",
@@ -3827,7 +3827,7 @@
         "2020": "71991",
         "": ""
     },
-    "Denmark": {
+    "denmark": {
         "Country Name": "Denmark",
         "Country Code": "DNK",
         "1960": "4579603",
@@ -3893,7 +3893,7 @@
         "2020": "5831404",
         "": ""
     },
-    "Dominican Republic": {
+    "dominican republic": {
         "Country Name": "Dominican Republic",
         "Country Code": "DOM",
         "1960": "3294222",
@@ -3959,7 +3959,7 @@
         "2020": "10847904",
         "": ""
     },
-    "Algeria": {
+    "algeria": {
         "Country Name": "Algeria",
         "Country Code": "DZA",
         "1960": "11057864",
@@ -4025,7 +4025,7 @@
         "2020": "43851043",
         "": ""
     },
-    "East Asia & Pacific (excluding high income)": {
+    "east asia & pacific (excluding high income)": {
         "Country Name": "East Asia & Pacific (excluding high income)",
         "Country Code": "EAP",
         "1960": "894875757",
@@ -4091,7 +4091,7 @@
         "2020": "2105003391",
         "": ""
     },
-    "Early-demographic dividend": {
+    "early-demographic dividend": {
         "Country Name": "Early-demographic dividend",
         "Country Code": "EAR",
         "1960": "980003345",
@@ -4157,7 +4157,7 @@
         "2020": "3332105361",
         "": ""
     },
-    "East Asia & Pacific": {
+    "east asia & pacific": {
         "Country Name": "East Asia & Pacific",
         "Country Code": "EAS",
         "1960": "1041673567",
@@ -4223,7 +4223,7 @@
         "2020": "2352037717",
         "": ""
     },
-    "Europe & Central Asia (excluding high income)": {
+    "europe & central asia (excluding high income)": {
         "Country Name": "Europe & Central Asia (excluding high income)",
         "Country Code": "ECA",
         "1960": "274647228",
@@ -4289,7 +4289,7 @@
         "2020": "420249459",
         "": ""
     },
-    "Europe & Central Asia": {
+    "europe & central asia": {
         "Country Name": "Europe & Central Asia",
         "Country Code": "ECS",
         "1960": "666753356",
@@ -4355,7 +4355,7 @@
         "2020": "923489941",
         "": ""
     },
-    "Ecuador": {
+    "ecuador": {
         "Country Name": "Ecuador",
         "Country Code": "ECU",
         "1960": "4543658",
@@ -4421,7 +4421,7 @@
         "2020": "17643060",
         "": ""
     },
-    "Egypt, Arab Rep.": {
+    "egypt, arab rep.": {
         "Country Name": "Egypt, Arab Rep.",
         "Country Code": "EGY",
         "1960": "26632891",
@@ -4487,7 +4487,7 @@
         "2020": "102334403",
         "": ""
     },
-    "Euro area": {
+    "euro area": {
         "Country Name": "Euro area",
         "Country Code": "EMU",
         "1960": "265203956",
@@ -4553,7 +4553,7 @@
         "2020": "342949773",
         "": ""
     },
-    "Eritrea": {
+    "eritrea": {
         "Country Name": "Eritrea",
         "Country Code": "ERI",
         "1960": "1007586",
@@ -4619,7 +4619,7 @@
         "2020": "",
         "": ""
     },
-    "Spain": {
+    "spain": {
         "Country Name": "Spain",
         "Country Code": "ESP",
         "1960": "30455000",
@@ -4685,7 +4685,7 @@
         "2020": "47351567",
         "": ""
     },
-    "Estonia": {
+    "estonia": {
         "Country Name": "Estonia",
         "Country Code": "EST",
         "1960": "1211537",
@@ -4751,7 +4751,7 @@
         "2020": "1331057",
         "": ""
     },
-    "Ethiopia": {
+    "ethiopia": {
         "Country Name": "Ethiopia",
         "Country Code": "ETH",
         "1960": "22151284",
@@ -4817,7 +4817,7 @@
         "2020": "114963583",
         "": ""
     },
-    "European Union": {
+    "european union": {
         "Country Name": "European Union",
         "Country Code": "EUU",
         "1960": "356906098",
@@ -4883,7 +4883,7 @@
         "2020": "447794691",
         "": ""
     },
-    "Fragile and conflict affected situations": {
+    "fragile and conflict affected situations": {
         "Country Name": "Fragile and conflict affected situations",
         "Country Code": "FCS",
         "1960": "208280083",
@@ -4949,7 +4949,7 @@
         "2020": "930006546",
         "": ""
     },
-    "Finland": {
+    "finland": {
         "Country Name": "Finland",
         "Country Code": "FIN",
         "1960": "4429634",
@@ -5015,7 +5015,7 @@
         "2020": "5530719",
         "": ""
     },
-    "Fiji": {
+    "fiji": {
         "Country Name": "Fiji",
         "Country Code": "FJI",
         "1960": "393480",
@@ -5081,7 +5081,7 @@
         "2020": "896444",
         "": ""
     },
-    "France": {
+    "france": {
         "Country Name": "France",
         "Country Code": "FRA",
         "1960": "46621688",
@@ -5147,7 +5147,7 @@
         "2020": "67391582",
         "": ""
     },
-    "Faroe Islands": {
+    "faroe islands": {
         "Country Name": "Faroe Islands",
         "Country Code": "FRO",
         "1960": "34624",
@@ -5213,7 +5213,7 @@
         "2020": "48865",
         "": ""
     },
-    "Micronesia, Fed. Sts.": {
+    "micronesia, fed. sts.": {
         "Country Name": "Micronesia, Fed. Sts.",
         "Country Code": "FSM",
         "1960": "44510",
@@ -5279,7 +5279,7 @@
         "2020": "115021",
         "": ""
     },
-    "Gabon": {
+    "gabon": {
         "Country Name": "Gabon",
         "Country Code": "GAB",
         "1960": "500922",
@@ -5345,7 +5345,7 @@
         "2020": "2225728",
         "": ""
     },
-    "United Kingdom": {
+    "united kingdom": {
         "Country Name": "United Kingdom",
         "Country Code": "GBR",
         "1960": "52400000",
@@ -5411,7 +5411,7 @@
         "2020": "67215293",
         "": ""
     },
-    "Georgia": {
+    "georgia": {
         "Country Name": "Georgia",
         "Country Code": "GEO",
         "1960": "3645600",
@@ -5477,7 +5477,7 @@
         "2020": "3714000",
         "": ""
     },
-    "Ghana": {
+    "ghana": {
         "Country Name": "Ghana",
         "Country Code": "GHA",
         "1960": "6635229",
@@ -5543,7 +5543,7 @@
         "2020": "31072945",
         "": ""
     },
-    "Gibraltar": {
+    "gibraltar": {
         "Country Name": "Gibraltar",
         "Country Code": "GIB",
         "1960": "23420",
@@ -5609,7 +5609,7 @@
         "2020": "33691",
         "": ""
     },
-    "Guinea": {
+    "guinea": {
         "Country Name": "Guinea",
         "Country Code": "GIN",
         "1960": "3494164",
@@ -5675,7 +5675,7 @@
         "2020": "13132792",
         "": ""
     },
-    "Gambia, The": {
+    "gambia, the": {
         "Country Name": "Gambia, The",
         "Country Code": "GMB",
         "1960": "365049",
@@ -5741,7 +5741,7 @@
         "2020": "2416664",
         "": ""
     },
-    "Guinea-Bissau": {
+    "guinea-bissau": {
         "Country Name": "Guinea-Bissau",
         "Country Code": "GNB",
         "1960": "616140",
@@ -5807,7 +5807,7 @@
         "2020": "1967998",
         "": ""
     },
-    "Equatorial Guinea": {
+    "equatorial guinea": {
         "Country Name": "Equatorial Guinea",
         "Country Code": "GNQ",
         "1960": "255338",
@@ -5873,7 +5873,7 @@
         "2020": "1402985",
         "": ""
     },
-    "Greece": {
+    "greece": {
         "Country Name": "Greece",
         "Country Code": "GRC",
         "1960": "8331725",
@@ -5939,7 +5939,7 @@
         "2020": "10715549",
         "": ""
     },
-    "Grenada": {
+    "grenada": {
         "Country Name": "Grenada",
         "Country Code": "GRD",
         "1960": "89927",
@@ -6005,7 +6005,7 @@
         "2020": "112519",
         "": ""
     },
-    "Greenland": {
+    "greenland": {
         "Country Name": "Greenland",
         "Country Code": "GRL",
         "1960": "32500",
@@ -6071,7 +6071,7 @@
         "2020": "56367",
         "": ""
     },
-    "Guatemala": {
+    "guatemala": {
         "Country Name": "Guatemala",
         "Country Code": "GTM",
         "1960": "4128880",
@@ -6137,7 +6137,7 @@
         "2020": "16858333",
         "": ""
     },
-    "Guam": {
+    "guam": {
         "Country Name": "Guam",
         "Country Code": "GUM",
         "1960": "66733",
@@ -6203,7 +6203,7 @@
         "2020": "168783",
         "": ""
     },
-    "Guyana": {
+    "guyana": {
         "Country Name": "Guyana",
         "Country Code": "GUY",
         "1960": "571813",
@@ -6269,7 +6269,7 @@
         "2020": "786559",
         "": ""
     },
-    "High income": {
+    "high income": {
         "Country Name": "High income",
         "Country Code": "HIC",
         "1960": "759783611",
@@ -6335,7 +6335,7 @@
         "2020": "1214930230",
         "": ""
     },
-    "Hong Kong SAR, China": {
+    "hong kong sar, china": {
         "Country Name": "Hong Kong SAR, China",
         "Country Code": "HKG",
         "1960": "3075605",
@@ -6401,7 +6401,7 @@
         "2020": "7481800",
         "": ""
     },
-    "Honduras": {
+    "honduras": {
         "Country Name": "Honduras",
         "Country Code": "HND",
         "1960": "2038636",
@@ -6467,7 +6467,7 @@
         "2020": "9904608",
         "": ""
     },
-    "Heavily indebted poor countries (HIPC)": {
+    "heavily indebted poor countries (hipc)": {
         "Country Name": "Heavily indebted poor countries (HIPC)",
         "Country Code": "HPC",
         "1960": "161734348",
@@ -6533,7 +6533,7 @@
         "2020": "823480038",
         "": ""
     },
-    "Croatia": {
+    "croatia": {
         "Country Name": "Croatia",
         "Country Code": "HRV",
         "1960": "4140181",
@@ -6599,7 +6599,7 @@
         "2020": "4047200",
         "": ""
     },
-    "Haiti": {
+    "haiti": {
         "Country Name": "Haiti",
         "Country Code": "HTI",
         "1960": "3866162",
@@ -6665,7 +6665,7 @@
         "2020": "11402533",
         "": ""
     },
-    "Hungary": {
+    "hungary": {
         "Country Name": "Hungary",
         "Country Code": "HUN",
         "1960": "9983967",
@@ -6731,7 +6731,7 @@
         "2020": "9749763",
         "": ""
     },
-    "IBRD only": {
+    "ibrd only": {
         "Country Name": "IBRD only",
         "Country Code": "IBD",
         "1960": "1919643259",
@@ -6797,7 +6797,7 @@
         "2020": "4853608684",
         "": ""
     },
-    "IDA & IBRD total": {
+    "ida & ibrd total": {
         "Country Name": "IDA & IBRD total",
         "Country Code": "IBT",
         "1960": "2299245319",
@@ -6863,7 +6863,7 @@
         "2020": "6562212357",
         "": ""
     },
-    "IDA total": {
+    "ida total": {
         "Country Name": "IDA total",
         "Country Code": "IDA",
         "1960": "379602060",
@@ -6929,7 +6929,7 @@
         "2020": "1708603673",
         "": ""
     },
-    "IDA blend": {
+    "ida blend": {
         "Country Name": "IDA blend",
         "Country Code": "IDB",
         "1960": "120391642",
@@ -6995,7 +6995,7 @@
         "2020": "574159138",
         "": ""
     },
-    "Indonesia": {
+    "indonesia": {
         "Country Name": "Indonesia",
         "Country Code": "IDN",
         "1960": "87751066",
@@ -7061,7 +7061,7 @@
         "2020": "273523621",
         "": ""
     },
-    "IDA only": {
+    "ida only": {
         "Country Name": "IDA only",
         "Country Code": "IDX",
         "1960": "259210418",
@@ -7127,7 +7127,7 @@
         "2020": "1134444535",
         "": ""
     },
-    "Isle of Man": {
+    "isle of man": {
         "Country Name": "Isle of Man",
         "Country Code": "IMN",
         "1960": "48444",
@@ -7193,7 +7193,7 @@
         "2020": "85032",
         "": ""
     },
-    "India": {
+    "india": {
         "Country Name": "India",
         "Country Code": "IND",
         "1960": "450547675",
@@ -7259,7 +7259,7 @@
         "2020": "1380004385",
         "": ""
     },
-    "Not classified": {
+    "not classified": {
         "Country Name": "Not classified",
         "Country Code": "INX",
         "1960": "",
@@ -7325,7 +7325,7 @@
         "2020": "",
         "": ""
     },
-    "Ireland": {
+    "ireland": {
         "Country Name": "Ireland",
         "Country Code": "IRL",
         "1960": "2828600",
@@ -7391,7 +7391,7 @@
         "2020": "4994724",
         "": ""
     },
-    "Iran, Islamic Rep.": {
+    "iran, islamic rep.": {
         "Country Name": "Iran, Islamic Rep.",
         "Country Code": "IRN",
         "1960": "21906909",
@@ -7457,7 +7457,7 @@
         "2020": "83992953",
         "": ""
     },
-    "Iraq": {
+    "iraq": {
         "Country Name": "Iraq",
         "Country Code": "IRQ",
         "1960": "7289753",
@@ -7523,7 +7523,7 @@
         "2020": "40222503",
         "": ""
     },
-    "Iceland": {
+    "iceland": {
         "Country Name": "Iceland",
         "Country Code": "ISL",
         "1960": "175574",
@@ -7589,7 +7589,7 @@
         "2020": "366425",
         "": ""
     },
-    "Israel": {
+    "israel": {
         "Country Name": "Israel",
         "Country Code": "ISR",
         "1960": "2114020",
@@ -7655,7 +7655,7 @@
         "2020": "9216900",
         "": ""
     },
-    "Italy": {
+    "italy": {
         "Country Name": "Italy",
         "Country Code": "ITA",
         "1960": "50199700",
@@ -7721,7 +7721,7 @@
         "2020": "59554023",
         "": ""
     },
-    "Jamaica": {
+    "jamaica": {
         "Country Name": "Jamaica",
         "Country Code": "JAM",
         "1960": "1628524",
@@ -7787,7 +7787,7 @@
         "2020": "2961161",
         "": ""
     },
-    "Jordan": {
+    "jordan": {
         "Country Name": "Jordan",
         "Country Code": "JOR",
         "1960": "933102",
@@ -7853,7 +7853,7 @@
         "2020": "10203140",
         "": ""
     },
-    "Japan": {
+    "japan": {
         "Country Name": "Japan",
         "Country Code": "JPN",
         "1960": "93216000",
@@ -7919,7 +7919,7 @@
         "2020": "125836021",
         "": ""
     },
-    "Kazakhstan": {
+    "kazakhstan": {
         "Country Name": "Kazakhstan",
         "Country Code": "KAZ",
         "1960": "9934564",
@@ -7985,7 +7985,7 @@
         "2020": "18754440",
         "": ""
     },
-    "Kenya": {
+    "kenya": {
         "Country Name": "Kenya",
         "Country Code": "KEN",
         "1960": "8120082",
@@ -8051,7 +8051,7 @@
         "2020": "53771300",
         "": ""
     },
-    "Kyrgyz Republic": {
+    "kyrgyz republic": {
         "Country Name": "Kyrgyz Republic",
         "Country Code": "KGZ",
         "1960": "2172300",
@@ -8117,7 +8117,7 @@
         "2020": "6591600",
         "": ""
     },
-    "Cambodia": {
+    "cambodia": {
         "Country Name": "Cambodia",
         "Country Code": "KHM",
         "1960": "5722372",
@@ -8183,7 +8183,7 @@
         "2020": "16718971",
         "": ""
     },
-    "Kiribati": {
+    "kiribati": {
         "Country Name": "Kiribati",
         "Country Code": "KIR",
         "1960": "41196",
@@ -8249,7 +8249,7 @@
         "2020": "119446",
         "": ""
     },
-    "St. Kitts and Nevis": {
+    "st. kitts and nevis": {
         "Country Name": "St. Kitts and Nevis",
         "Country Code": "KNA",
         "1960": "51199",
@@ -8315,7 +8315,7 @@
         "2020": "53192",
         "": ""
     },
-    "Korea, Rep.": {
+    "korea, rep.": {
         "Country Name": "Korea, Rep.",
         "Country Code": "KOR",
         "1960": "25012374",
@@ -8381,7 +8381,7 @@
         "2020": "51780579",
         "": ""
     },
-    "Kuwait": {
+    "kuwait": {
         "Country Name": "Kuwait",
         "Country Code": "KWT",
         "1960": "269026",
@@ -8447,7 +8447,7 @@
         "2020": "4270563",
         "": ""
     },
-    "Latin America & Caribbean (excluding high income)": {
+    "latin america & caribbean (excluding high income)": {
         "Country Name": "Latin America & Caribbean (excluding high income)",
         "Country Code": "LAC",
         "1960": "197123485",
@@ -8513,7 +8513,7 @@
         "2020": "595242966",
         "": ""
     },
-    "Lao PDR": {
+    "lao pdr": {
         "Country Name": "Lao PDR",
         "Country Code": "LAO",
         "1960": "2120892",
@@ -8579,7 +8579,7 @@
         "2020": "7275556",
         "": ""
     },
-    "Lebanon": {
+    "lebanon": {
         "Country Name": "Lebanon",
         "Country Code": "LBN",
         "1960": "1804935",
@@ -8645,7 +8645,7 @@
         "2020": "6825442",
         "": ""
     },
-    "Liberia": {
+    "liberia": {
         "Country Name": "Liberia",
         "Country Code": "LBR",
         "1960": "1118655",
@@ -8711,7 +8711,7 @@
         "2020": "5057677",
         "": ""
     },
-    "Libya": {
+    "libya": {
         "Country Name": "Libya",
         "Country Code": "LBY",
         "1960": "1448416",
@@ -8777,7 +8777,7 @@
         "2020": "6871287",
         "": ""
     },
-    "St. Lucia": {
+    "st. lucia": {
         "Country Name": "St. Lucia",
         "Country Code": "LCA",
         "1960": "89698",
@@ -8843,7 +8843,7 @@
         "2020": "183629",
         "": ""
     },
-    "Latin America & Caribbean": {
+    "latin america & caribbean": {
         "Country Name": "Latin America & Caribbean",
         "Country Code": "LCN",
         "1960": "219828794",
@@ -8909,7 +8909,7 @@
         "2020": "652276325",
         "": ""
     },
-    "Least developed countries: UN classification": {
+    "least developed countries: un classification": {
         "Country Name": "Least developed countries: UN classification",
         "Country Code": "LDC",
         "1960": "240518397",
@@ -8975,7 +8975,7 @@
         "2020": "1057438163",
         "": ""
     },
-    "Low income": {
+    "low income": {
         "Country Name": "Low income",
         "Country Code": "LIC",
         "1960": "137782356",
@@ -9041,7 +9041,7 @@
         "2020": "665149035",
         "": ""
     },
-    "Liechtenstein": {
+    "liechtenstein": {
         "Country Name": "Liechtenstein",
         "Country Code": "LIE",
         "1960": "16501",
@@ -9107,7 +9107,7 @@
         "2020": "38137",
         "": ""
     },
-    "Sri Lanka": {
+    "sri lanka": {
         "Country Name": "Sri Lanka",
         "Country Code": "LKA",
         "1960": "9874476",
@@ -9173,7 +9173,7 @@
         "2020": "21919000",
         "": ""
     },
-    "Lower middle income": {
+    "lower middle income": {
         "Country Name": "Lower middle income",
         "Country Code": "LMC",
         "1960": "989984004",
@@ -9239,7 +9239,7 @@
         "2020": "3330652547",
         "": ""
     },
-    "Low & middle income": {
+    "low & middle income": {
         "Country Name": "Low & middle income",
         "Country Code": "LMY",
         "1960": "2264230620",
@@ -9305,7 +9305,7 @@
         "2020": "6509474374",
         "": ""
     },
-    "Lesotho": {
+    "lesotho": {
         "Country Name": "Lesotho",
         "Country Code": "LSO",
         "1960": "837264",
@@ -9371,7 +9371,7 @@
         "2020": "2142252",
         "": ""
     },
-    "Late-demographic dividend": {
+    "late-demographic dividend": {
         "Country Name": "Late-demographic dividend",
         "Country Code": "LTE",
         "1960": "1096903448",
@@ -9437,7 +9437,7 @@
         "2020": "2307887395",
         "": ""
     },
-    "Lithuania": {
+    "lithuania": {
         "Country Name": "Lithuania",
         "Country Code": "LTU",
         "1960": "2778550",
@@ -9503,7 +9503,7 @@
         "2020": "2794700",
         "": ""
     },
-    "Luxembourg": {
+    "luxembourg": {
         "Country Name": "Luxembourg",
         "Country Code": "LUX",
         "1960": "313970",
@@ -9569,7 +9569,7 @@
         "2020": "632275",
         "": ""
     },
-    "Latvia": {
+    "latvia": {
         "Country Name": "Latvia",
         "Country Code": "LVA",
         "1960": "2120979",
@@ -9635,7 +9635,7 @@
         "2020": "1901548",
         "": ""
     },
-    "Macao SAR, China": {
+    "macao sar, china": {
         "Country Name": "Macao SAR, China",
         "Country Code": "MAC",
         "1960": "167795",
@@ -9701,7 +9701,7 @@
         "2020": "649342",
         "": ""
     },
-    "St. Martin (French part)": {
+    "st. martin (french part)": {
         "Country Name": "St. Martin (French part)",
         "Country Code": "MAF",
         "1960": "3898",
@@ -9767,7 +9767,7 @@
         "2020": "38659",
         "": ""
     },
-    "Morocco": {
+    "morocco": {
         "Country Name": "Morocco",
         "Country Code": "MAR",
         "1960": "12328532",
@@ -9833,7 +9833,7 @@
         "2020": "36910558",
         "": ""
     },
-    "Monaco": {
+    "monaco": {
         "Country Name": "Monaco",
         "Country Code": "MCO",
         "1960": "22461",
@@ -9899,7 +9899,7 @@
         "2020": "39244",
         "": ""
     },
-    "Moldova": {
+    "moldova": {
         "Country Name": "Moldova",
         "Country Code": "MDA",
         "1960": "2043664",
@@ -9965,7 +9965,7 @@
         "2020": "2617820",
         "": ""
     },
-    "Madagascar": {
+    "madagascar": {
         "Country Name": "Madagascar",
         "Country Code": "MDG",
         "1960": "5099368",
@@ -10031,7 +10031,7 @@
         "2020": "27691019",
         "": ""
     },
-    "Maldives": {
+    "maldives": {
         "Country Name": "Maldives",
         "Country Code": "MDV",
         "1960": "89873",
@@ -10097,7 +10097,7 @@
         "2020": "540542",
         "": ""
     },
-    "Middle East & North Africa": {
+    "middle east & north africa": {
         "Country Name": "Middle East & North Africa",
         "Country Code": "MEA",
         "1960": "105203230",
@@ -10163,7 +10163,7 @@
         "2020": "464554123",
         "": ""
     },
-    "Mexico": {
+    "mexico": {
         "Country Name": "Mexico",
         "Country Code": "MEX",
         "1960": "37771861",
@@ -10229,7 +10229,7 @@
         "2020": "128932753",
         "": ""
     },
-    "Marshall Islands": {
+    "marshall islands": {
         "Country Name": "Marshall Islands",
         "Country Code": "MHL",
         "1960": "14674",
@@ -10295,7 +10295,7 @@
         "2020": "59194",
         "": ""
     },
-    "Middle income": {
+    "middle income": {
         "Country Name": "Middle income",
         "Country Code": "MIC",
         "1960": "2126448264",
@@ -10361,7 +10361,7 @@
         "2020": "5844325339",
         "": ""
     },
-    "North Macedonia": {
+    "north macedonia": {
         "Country Name": "North Macedonia",
         "Country Code": "MKD",
         "1960": "1488670",
@@ -10427,7 +10427,7 @@
         "2020": "2083380",
         "": ""
     },
-    "Mali": {
+    "mali": {
         "Country Name": "Mali",
         "Country Code": "MLI",
         "1960": "5263727",
@@ -10493,7 +10493,7 @@
         "2020": "20250834",
         "": ""
     },
-    "Malta": {
+    "malta": {
         "Country Name": "Malta",
         "Country Code": "MLT",
         "1960": "326550",
@@ -10559,7 +10559,7 @@
         "2020": "525285",
         "": ""
     },
-    "Myanmar": {
+    "myanmar": {
         "Country Name": "Myanmar",
         "Country Code": "MMR",
         "1960": "21736947",
@@ -10625,7 +10625,7 @@
         "2020": "54409794",
         "": ""
     },
-    "Middle East & North Africa (excluding high income)": {
+    "middle east & north africa (excluding high income)": {
         "Country Name": "Middle East & North Africa (excluding high income)",
         "Country Code": "MNA",
         "1960": "97553136",
@@ -10691,7 +10691,7 @@
         "2020": "396147843",
         "": ""
     },
-    "Montenegro": {
+    "montenegro": {
         "Country Name": "Montenegro",
         "Country Code": "MNE",
         "1960": "480579",
@@ -10757,7 +10757,7 @@
         "2020": "621718",
         "": ""
     },
-    "Mongolia": {
+    "mongolia": {
         "Country Name": "Mongolia",
         "Country Code": "MNG",
         "1960": "955514",
@@ -10823,7 +10823,7 @@
         "2020": "3278292",
         "": ""
     },
-    "Northern Mariana Islands": {
+    "northern mariana islands": {
         "Country Name": "Northern Mariana Islands",
         "Country Code": "MNP",
         "1960": "9980",
@@ -10889,7 +10889,7 @@
         "2020": "57557",
         "": ""
     },
-    "Mozambique": {
+    "mozambique": {
         "Country Name": "Mozambique",
         "Country Code": "MOZ",
         "1960": "7184870",
@@ -10955,7 +10955,7 @@
         "2020": "31255435",
         "": ""
     },
-    "Mauritania": {
+    "mauritania": {
         "Country Name": "Mauritania",
         "Country Code": "MRT",
         "1960": "850377",
@@ -11021,7 +11021,7 @@
         "2020": "4649660",
         "": ""
     },
-    "Mauritius": {
+    "mauritius": {
         "Country Name": "Mauritius",
         "Country Code": "MUS",
         "1960": "659351",
@@ -11087,7 +11087,7 @@
         "2020": "1265740",
         "": ""
     },
-    "Malawi": {
+    "malawi": {
         "Country Name": "Malawi",
         "Country Code": "MWI",
         "1960": "3659980",
@@ -11153,7 +11153,7 @@
         "2020": "19129955",
         "": ""
     },
-    "Malaysia": {
+    "malaysia": {
         "Country Name": "Malaysia",
         "Country Code": "MYS",
         "1960": "8156342",
@@ -11219,7 +11219,7 @@
         "2020": "32365998",
         "": ""
     },
-    "North America": {
+    "north america": {
         "Country Name": "North America",
         "Country Code": "NAC",
         "1960": "198624409",
@@ -11285,7 +11285,7 @@
         "2020": "367553264",
         "": ""
     },
-    "Namibia": {
+    "namibia": {
         "Country Name": "Namibia",
         "Country Code": "NAM",
         "1960": "634138",
@@ -11351,7 +11351,7 @@
         "2020": "2540916",
         "": ""
     },
-    "New Caledonia": {
+    "new caledonia": {
         "Country Name": "New Caledonia",
         "Country Code": "NCL",
         "1960": "79000",
@@ -11417,7 +11417,7 @@
         "2020": "271960",
         "": ""
     },
-    "Niger": {
+    "niger": {
         "Country Name": "Niger",
         "Country Code": "NER",
         "1960": "3388774",
@@ -11483,7 +11483,7 @@
         "2020": "24206636",
         "": ""
     },
-    "Nigeria": {
+    "nigeria": {
         "Country Name": "Nigeria",
         "Country Code": "NGA",
         "1960": "45138460",
@@ -11549,7 +11549,7 @@
         "2020": "206139587",
         "": ""
     },
-    "Nicaragua": {
+    "nicaragua": {
         "Country Name": "Nicaragua",
         "Country Code": "NIC",
         "1960": "1773132",
@@ -11615,7 +11615,7 @@
         "2020": "6624554",
         "": ""
     },
-    "Netherlands": {
+    "netherlands": {
         "Country Name": "Netherlands",
         "Country Code": "NLD",
         "1960": "11486631",
@@ -11681,7 +11681,7 @@
         "2020": "17441139",
         "": ""
     },
-    "Norway": {
+    "norway": {
         "Country Name": "Norway",
         "Country Code": "NOR",
         "1960": "3581239",
@@ -11747,7 +11747,7 @@
         "2020": "5379475",
         "": ""
     },
-    "Nepal": {
+    "nepal": {
         "Country Name": "Nepal",
         "Country Code": "NPL",
         "1960": "10105060",
@@ -11813,7 +11813,7 @@
         "2020": "29136808",
         "": ""
     },
-    "Nauru": {
+    "nauru": {
         "Country Name": "Nauru",
         "Country Code": "NRU",
         "1960": "4377",
@@ -11879,7 +11879,7 @@
         "2020": "10834",
         "": ""
     },
-    "New Zealand": {
+    "new zealand": {
         "Country Name": "New Zealand",
         "Country Code": "NZL",
         "1960": "2371800",
@@ -11945,7 +11945,7 @@
         "2020": "5084300",
         "": ""
     },
-    "OECD members": {
+    "oecd members": {
         "Country Name": "OECD members",
         "Country Code": "OED",
         "1960": "809413164",
@@ -12011,7 +12011,7 @@
         "2020": "1370858752",
         "": ""
     },
-    "Oman": {
+    "oman": {
         "Country Name": "Oman",
         "Country Code": "OMN",
         "1960": "551735",
@@ -12077,7 +12077,7 @@
         "2020": "5106622",
         "": ""
     },
-    "Other small states": {
+    "other small states": {
         "Country Name": "Other small states",
         "Country Code": "OSS",
         "1960": "9151857",
@@ -12143,7 +12143,7 @@
         "2020": "31941786",
         "": ""
     },
-    "Pakistan": {
+    "pakistan": {
         "Country Name": "Pakistan",
         "Country Code": "PAK",
         "1960": "44988690",
@@ -12209,7 +12209,7 @@
         "2020": "220892331",
         "": ""
     },
-    "Panama": {
+    "panama": {
         "Country Name": "Panama",
         "Country Code": "PAN",
         "1960": "1133005",
@@ -12275,7 +12275,7 @@
         "2020": "4314768",
         "": ""
     },
-    "Peru": {
+    "peru": {
         "Country Name": "Peru",
         "Country Code": "PER",
         "1960": "10155011",
@@ -12341,7 +12341,7 @@
         "2020": "32971846",
         "": ""
     },
-    "Philippines": {
+    "philippines": {
         "Country Name": "Philippines",
         "Country Code": "PHL",
         "1960": "26269741",
@@ -12407,7 +12407,7 @@
         "2020": "109581085",
         "": ""
     },
-    "Palau": {
+    "palau": {
         "Country Name": "Palau",
         "Country Code": "PLW",
         "1960": "9769",
@@ -12473,7 +12473,7 @@
         "2020": "18092",
         "": ""
     },
-    "Papua New Guinea": {
+    "papua new guinea": {
         "Country Name": "Papua New Guinea",
         "Country Code": "PNG",
         "1960": "2255858",
@@ -12539,7 +12539,7 @@
         "2020": "8947027",
         "": ""
     },
-    "Poland": {
+    "poland": {
         "Country Name": "Poland",
         "Country Code": "POL",
         "1960": "29637450",
@@ -12605,7 +12605,7 @@
         "2020": "37950802",
         "": ""
     },
-    "Pre-demographic dividend": {
+    "pre-demographic dividend": {
         "Country Name": "Pre-demographic dividend",
         "Country Code": "PRE",
         "1960": "187617086",
@@ -12671,7 +12671,7 @@
         "2020": "970795671",
         "": ""
     },
-    "Puerto Rico": {
+    "puerto rico": {
         "Country Name": "Puerto Rico",
         "Country Code": "PRI",
         "1960": "2358000",
@@ -12737,7 +12737,7 @@
         "2020": "3194034",
         "": ""
     },
-    "Korea, Dem. People's Rep.": {
+    "korea, dem. people's rep.": {
         "Country Name": "Korea, Dem. People's Rep.",
         "Country Code": "PRK",
         "1960": "11424189",
@@ -12803,7 +12803,7 @@
         "2020": "25778815",
         "": ""
     },
-    "Portugal": {
+    "portugal": {
         "Country Name": "Portugal",
         "Country Code": "PRT",
         "1960": "8857716",
@@ -12869,7 +12869,7 @@
         "2020": "10305564",
         "": ""
     },
-    "Paraguay": {
+    "paraguay": {
         "Country Name": "Paraguay",
         "Country Code": "PRY",
         "1960": "1903990",
@@ -12935,7 +12935,7 @@
         "2020": "7132530",
         "": ""
     },
-    "West Bank and Gaza": {
+    "west bank and gaza": {
         "Country Name": "West Bank and Gaza",
         "Country Code": "PSE",
         "1960": "",
@@ -13001,7 +13001,7 @@
         "2020": "4803269",
         "": ""
     },
-    "Pacific island small states": {
+    "pacific island small states": {
         "Country Name": "Pacific island small states",
         "Country Code": "PSS",
         "1960": "865064",
@@ -13067,7 +13067,7 @@
         "2020": "2528958",
         "": ""
     },
-    "Post-demographic dividend": {
+    "post-demographic dividend": {
         "Country Name": "Post-demographic dividend",
         "Country Code": "PST",
         "1960": "755229793",
@@ -13133,7 +13133,7 @@
         "2020": "1115116448",
         "": ""
     },
-    "French Polynesia": {
+    "french polynesia": {
         "Country Name": "French Polynesia",
         "Country Code": "PYF",
         "1960": "78080",
@@ -13199,7 +13199,7 @@
         "2020": "280904",
         "": ""
     },
-    "Qatar": {
+    "qatar": {
         "Country Name": "Qatar",
         "Country Code": "QAT",
         "1960": "47383",
@@ -13265,7 +13265,7 @@
         "2020": "2881060",
         "": ""
     },
-    "Romania": {
+    "romania": {
         "Country Name": "Romania",
         "Country Code": "ROU",
         "1960": "18406905",
@@ -13331,7 +13331,7 @@
         "2020": "19286123",
         "": ""
     },
-    "Russian Federation": {
+    "russian federation": {
         "Country Name": "Russian Federation",
         "Country Code": "RUS",
         "1960": "119897000",
@@ -13397,7 +13397,7 @@
         "2020": "144104080",
         "": ""
     },
-    "Rwanda": {
+    "rwanda": {
         "Country Name": "Rwanda",
         "Country Code": "RWA",
         "1960": "2935575",
@@ -13463,7 +13463,7 @@
         "2020": "12952209",
         "": ""
     },
-    "South Asia": {
+    "south asia": {
         "Country Name": "South Asia",
         "Country Code": "SAS",
         "1960": "572839530",
@@ -13529,7 +13529,7 @@
         "2020": "1856882402",
         "": ""
     },
-    "Saudi Arabia": {
+    "saudi arabia": {
         "Country Name": "Saudi Arabia",
         "Country Code": "SAU",
         "1960": "4086534",
@@ -13595,7 +13595,7 @@
         "2020": "34813867",
         "": ""
     },
-    "Sudan": {
+    "sudan": {
         "Country Name": "Sudan",
         "Country Code": "SDN",
         "1960": "7544498",
@@ -13661,7 +13661,7 @@
         "2020": "43849269",
         "": ""
     },
-    "Senegal": {
+    "senegal": {
         "Country Name": "Senegal",
         "Country Code": "SEN",
         "1960": "3206757",
@@ -13727,7 +13727,7 @@
         "2020": "16743930",
         "": ""
     },
-    "Singapore": {
+    "singapore": {
         "Country Name": "Singapore",
         "Country Code": "SGP",
         "1960": "1646400",
@@ -13793,7 +13793,7 @@
         "2020": "5685807",
         "": ""
     },
-    "Solomon Islands": {
+    "solomon islands": {
         "Country Name": "Solomon Islands",
         "Country Code": "SLB",
         "1960": "117847",
@@ -13859,7 +13859,7 @@
         "2020": "686878",
         "": ""
     },
-    "Sierra Leone": {
+    "sierra leone": {
         "Country Name": "Sierra Leone",
         "Country Code": "SLE",
         "1960": "2317638",
@@ -13925,7 +13925,7 @@
         "2020": "7976985",
         "": ""
     },
-    "El Salvador": {
+    "el salvador": {
         "Country Name": "El Salvador",
         "Country Code": "SLV",
         "1960": "2766319",
@@ -13991,7 +13991,7 @@
         "2020": "6486201",
         "": ""
     },
-    "San Marino": {
+    "san marino": {
         "Country Name": "San Marino",
         "Country Code": "SMR",
         "1960": "15440",
@@ -14057,7 +14057,7 @@
         "2020": "33938",
         "": ""
     },
-    "Somalia": {
+    "somalia": {
         "Country Name": "Somalia",
         "Country Code": "SOM",
         "1960": "2755967",
@@ -14123,7 +14123,7 @@
         "2020": "15893219",
         "": ""
     },
-    "Serbia": {
+    "serbia": {
         "Country Name": "Serbia",
         "Country Code": "SRB",
         "1960": "6608000",
@@ -14189,7 +14189,7 @@
         "2020": "6908224",
         "": ""
     },
-    "Sub-Saharan Africa (excluding high income)": {
+    "sub-saharan africa (excluding high income)": {
         "Country Name": "Sub-Saharan Africa (excluding high income)",
         "Country Code": "SSA",
         "1960": "227191484",
@@ -14255,7 +14255,7 @@
         "2020": "1135948313",
         "": ""
     },
-    "South Sudan": {
+    "south sudan": {
         "Country Name": "South Sudan",
         "Country Code": "SSD",
         "1960": "2842718",
@@ -14321,7 +14321,7 @@
         "2020": "11193729",
         "": ""
     },
-    "Sub-Saharan Africa": {
+    "sub-saharan africa": {
         "Country Name": "Sub-Saharan Africa",
         "Country Code": "SSF",
         "1960": "227233184",
@@ -14387,7 +14387,7 @@
         "2020": "1136046775",
         "": ""
     },
-    "Small states": {
+    "small states": {
         "Country Name": "Small states",
         "Country Code": "SST",
         "1960": "14211632",
@@ -14453,7 +14453,7 @@
         "2020": "41913035",
         "": ""
     },
-    "Sao Tome and Principe": {
+    "sao tome and principe": {
         "Country Name": "Sao Tome and Principe",
         "Country Code": "STP",
         "1960": "64294",
@@ -14519,7 +14519,7 @@
         "2020": "219161",
         "": ""
     },
-    "Suriname": {
+    "suriname": {
         "Country Name": "Suriname",
         "Country Code": "SUR",
         "1960": "287870",
@@ -14585,7 +14585,7 @@
         "2020": "586634",
         "": ""
     },
-    "Slovak Republic": {
+    "slovak republic": {
         "Country Name": "Slovak Republic",
         "Country Code": "SVK",
         "1960": "4068095",
@@ -14651,7 +14651,7 @@
         "2020": "5458827",
         "": ""
     },
-    "Slovenia": {
+    "slovenia": {
         "Country Name": "Slovenia",
         "Country Code": "SVN",
         "1960": "1584720",
@@ -14717,7 +14717,7 @@
         "2020": "2100126",
         "": ""
     },
-    "Sweden": {
+    "sweden": {
         "Country Name": "Sweden",
         "Country Code": "SWE",
         "1960": "7484656",
@@ -14783,7 +14783,7 @@
         "2020": "10353442",
         "": ""
     },
-    "Eswatini": {
+    "eswatini": {
         "Country Name": "Eswatini",
         "Country Code": "SWZ",
         "1960": "336578",
@@ -14849,7 +14849,7 @@
         "2020": "1160164",
         "": ""
     },
-    "Sint Maarten (Dutch part)": {
+    "sint maarten (dutch part)": {
         "Country Name": "Sint Maarten (Dutch part)",
         "Country Code": "SXM",
         "1960": "2833",
@@ -14915,7 +14915,7 @@
         "2020": "40812",
         "": ""
     },
-    "Seychelles": {
+    "seychelles": {
         "Country Name": "Seychelles",
         "Country Code": "SYC",
         "1960": "41700",
@@ -14981,7 +14981,7 @@
         "2020": "98462",
         "": ""
     },
-    "Syrian Arab Republic": {
+    "syrian arab republic": {
         "Country Name": "Syrian Arab Republic",
         "Country Code": "SYR",
         "1960": "4573514",
@@ -15047,7 +15047,7 @@
         "2020": "17500657",
         "": ""
     },
-    "Turks and Caicos Islands": {
+    "turks and caicos islands": {
         "Country Name": "Turks and Caicos Islands",
         "Country Code": "TCA",
         "1960": "5825",
@@ -15113,7 +15113,7 @@
         "2020": "38718",
         "": ""
     },
-    "Chad": {
+    "chad": {
         "Country Name": "Chad",
         "Country Code": "TCD",
         "1960": "3001604",
@@ -15179,7 +15179,7 @@
         "2020": "16425859",
         "": ""
     },
-    "East Asia & Pacific (IDA & IBRD countries)": {
+    "east asia & pacific (ida & ibrd countries)": {
         "Country Name": "East Asia & Pacific (IDA & IBRD countries)",
         "Country Code": "TEA",
         "1960": "883445587",
@@ -15245,7 +15245,7 @@
         "2020": "2079198305",
         "": ""
     },
-    "Europe & Central Asia (IDA & IBRD countries)": {
+    "europe & central asia (ida & ibrd countries)": {
         "Country Name": "Europe & Central Asia (IDA & IBRD countries)",
         "Country Code": "TEC",
         "1960": "308424859",
@@ -15311,7 +15311,7 @@
         "2020": "462247461",
         "": ""
     },
-    "Togo": {
+    "togo": {
         "Country Name": "Togo",
         "Country Code": "TGO",
         "1960": "1580508",
@@ -15377,7 +15377,7 @@
         "2020": "8278737",
         "": ""
     },
-    "Thailand": {
+    "thailand": {
         "Country Name": "Thailand",
         "Country Code": "THA",
         "1960": "27397208",
@@ -15443,7 +15443,7 @@
         "2020": "69799978",
         "": ""
     },
-    "Tajikistan": {
+    "tajikistan": {
         "Country Name": "Tajikistan",
         "Country Code": "TJK",
         "1960": "2087053",
@@ -15509,7 +15509,7 @@
         "2020": "9537642",
         "": ""
     },
-    "Turkmenistan": {
+    "turkmenistan": {
         "Country Name": "Turkmenistan",
         "Country Code": "TKM",
         "1960": "1603254",
@@ -15575,7 +15575,7 @@
         "2020": "6031187",
         "": ""
     },
-    "Latin America & the Caribbean (IDA & IBRD countries)": {
+    "latin america & the caribbean (ida & ibrd countries)": {
         "Country Name": "Latin America & the Caribbean (IDA & IBRD countries)",
         "Country Code": "TLA",
         "1960": "209749023",
@@ -15641,7 +15641,7 @@
         "2020": "636492840",
         "": ""
     },
-    "Timor-Leste": {
+    "timor-leste": {
         "Country Name": "Timor-Leste",
         "Country Code": "TLS",
         "1960": "474535",
@@ -15707,7 +15707,7 @@
         "2020": "1318442",
         "": ""
     },
-    "Middle East & North Africa (IDA & IBRD countries)": {
+    "middle east & north africa (ida & ibrd countries)": {
         "Country Name": "Middle East & North Africa (IDA & IBRD countries)",
         "Country Code": "TMN",
         "1960": "97553136",
@@ -15773,7 +15773,7 @@
         "2020": "391344574",
         "": ""
     },
-    "Tonga": {
+    "tonga": {
         "Country Name": "Tonga",
         "Country Code": "TON",
         "1960": "61574",
@@ -15839,7 +15839,7 @@
         "2020": "105697",
         "": ""
     },
-    "South Asia (IDA & IBRD)": {
+    "south asia (ida & ibrd)": {
         "Country Name": "South Asia (IDA & IBRD)",
         "Country Code": "TSA",
         "1960": "572839530",
@@ -15905,7 +15905,7 @@
         "2020": "1856882402",
         "": ""
     },
-    "Sub-Saharan Africa (IDA & IBRD countries)": {
+    "sub-saharan africa (ida & ibrd countries)": {
         "Country Name": "Sub-Saharan Africa (IDA & IBRD countries)",
         "Country Code": "TSS",
         "1960": "227233184",
@@ -15971,7 +15971,7 @@
         "2020": "1136046775",
         "": ""
     },
-    "Trinidad and Tobago": {
+    "trinidad and tobago": {
         "Country Name": "Trinidad and Tobago",
         "Country Code": "TTO",
         "1960": "847973",
@@ -16037,7 +16037,7 @@
         "2020": "1399491",
         "": ""
     },
-    "Tunisia": {
+    "tunisia": {
         "Country Name": "Tunisia",
         "Country Code": "TUN",
         "1960": "4178235",
@@ -16103,7 +16103,7 @@
         "2020": "11818618",
         "": ""
     },
-    "Turkey": {
+    "turkey": {
         "Country Name": "Turkey",
         "Country Code": "TUR",
         "1960": "27472339",
@@ -16169,7 +16169,7 @@
         "2020": "84339067",
         "": ""
     },
-    "Tuvalu": {
+    "tuvalu": {
         "Country Name": "Tuvalu",
         "Country Code": "TUV",
         "1960": "5321",
@@ -16235,7 +16235,7 @@
         "2020": "11792",
         "": ""
     },
-    "Tanzania": {
+    "tanzania": {
         "Country Name": "Tanzania",
         "Country Code": "TZA",
         "1960": "10052151",
@@ -16301,7 +16301,7 @@
         "2020": "59734213",
         "": ""
     },
-    "Uganda": {
+    "uganda": {
         "Country Name": "Uganda",
         "Country Code": "UGA",
         "1960": "6767092",
@@ -16367,7 +16367,7 @@
         "2020": "45741000",
         "": ""
     },
-    "Ukraine": {
+    "ukraine": {
         "Country Name": "Ukraine",
         "Country Code": "UKR",
         "1960": "42664646",
@@ -16433,7 +16433,7 @@
         "2020": "44134693",
         "": ""
     },
-    "Upper middle income": {
+    "upper middle income": {
         "Country Name": "Upper middle income",
         "Country Code": "UMC",
         "1960": "1136464260",
@@ -16499,7 +16499,7 @@
         "2020": "2513672792",
         "": ""
     },
-    "Uruguay": {
+    "uruguay": {
         "Country Name": "Uruguay",
         "Country Code": "URY",
         "1960": "2538648",
@@ -16565,7 +16565,7 @@
         "2020": "3473727",
         "": ""
     },
-    "United States": {
+    "united states": {
         "Country Name": "United States",
         "Country Code": "USA",
         "1960": "180671000",
@@ -16631,7 +16631,7 @@
         "2020": "329484123",
         "": ""
     },
-    "Uzbekistan": {
+    "uzbekistan": {
         "Country Name": "Uzbekistan",
         "Country Code": "UZB",
         "1960": "8526299",
@@ -16697,7 +16697,7 @@
         "2020": "34232050",
         "": ""
     },
-    "St. Vincent and the Grenadines": {
+    "st. vincent and the grenadines": {
         "Country Name": "St. Vincent and the Grenadines",
         "Country Code": "VCT",
         "1960": "80970",
@@ -16763,7 +16763,7 @@
         "2020": "110947",
         "": ""
     },
-    "Venezuela, RB": {
+    "venezuela, rb": {
         "Country Name": "Venezuela, RB",
         "Country Code": "VEN",
         "1960": "8141839",
@@ -16829,7 +16829,7 @@
         "2020": "28435943",
         "": ""
     },
-    "British Virgin Islands": {
+    "british virgin islands": {
         "Country Name": "British Virgin Islands",
         "Country Code": "VGB",
         "1960": "8053",
@@ -16895,7 +16895,7 @@
         "2020": "30237",
         "": ""
     },
-    "Virgin Islands (U.S.)": {
+    "virgin islands (u.s.)": {
         "Country Name": "Virgin Islands (U.S.)",
         "Country Code": "VIR",
         "1960": "32500",
@@ -16961,7 +16961,7 @@
         "2020": "106290",
         "": ""
     },
-    "Vietnam": {
+    "vietnam": {
         "Country Name": "Vietnam",
         "Country Code": "VNM",
         "1960": "32670048",
@@ -17027,7 +17027,7 @@
         "2020": "97338583",
         "": ""
     },
-    "Vanuatu": {
+    "vanuatu": {
         "Country Name": "Vanuatu",
         "Country Code": "VUT",
         "1960": "63689",
@@ -17093,7 +17093,7 @@
         "2020": "307150",
         "": ""
     },
-    "World": {
+    "world": {
         "Country Name": "World",
         "Country Code": "WLD",
         "1960": "3032156070",
@@ -17159,7 +17159,7 @@
         "2020": "7752840547",
         "": ""
     },
-    "Samoa": {
+    "samoa": {
         "Country Name": "Samoa",
         "Country Code": "WSM",
         "1960": "108627",
@@ -17225,7 +17225,7 @@
         "2020": "198410",
         "": ""
     },
-    "Kosovo": {
+    "kosovo": {
         "Country Name": "Kosovo",
         "Country Code": "XKX",
         "1960": "947000",
@@ -17291,7 +17291,7 @@
         "2020": "1775378",
         "": ""
     },
-    "Yemen, Rep.": {
+    "yemen, rep.": {
         "Country Name": "Yemen, Rep.",
         "Country Code": "YEM",
         "1960": "5315351",
@@ -17357,7 +17357,7 @@
         "2020": "29825968",
         "": ""
     },
-    "South Africa": {
+    "south africa": {
         "Country Name": "South Africa",
         "Country Code": "ZAF",
         "1960": "17099836",
@@ -17423,7 +17423,7 @@
         "2020": "59308690",
         "": ""
     },
-    "Zambia": {
+    "zambia": {
         "Country Name": "Zambia",
         "Country Code": "ZMB",
         "1960": "3070780",
@@ -17489,7 +17489,7 @@
         "2020": "18383956",
         "": ""
     },
-    "Zimbabwe": {
+    "zimbabwe": {
         "Country Name": "Zimbabwe",
         "Country Code": "ZWE",
         "1960": "3776679",

@@ -8,22 +8,22 @@ const getPopulationByYear = function (year) {
 
 // to get population in each year of a particular country
 const getPopulationOfCountry = function (countryName) {
-    return dataByCountry[String(countryName)] || null
+    return dataByCountry[String(countryName).toLowerCase()] || null
 }
 
 // to get population by year and country
 const getPopulationByCountryAndYear = function (countryName, year) {
-    return dataByCountry[String(countryName)][String(year)] || null
+    return dataByCountry[String(countryName).toLowerCase()][String(year)] || null
 }
 
 // to get population of world by particular year
 const getWorldPopulationByYear = function (year) {
-    return dataByYear[String(year)]["World"] || null
+    return dataByYear[String(year)]["world"] || null
 }
 
 // population of world from begging (1960) to year (2020)
 const getWorldPopulationData = function () {
-    return dataByCountry["World"] || null
+    return dataByCountry["world"] || null
 }
 
   
