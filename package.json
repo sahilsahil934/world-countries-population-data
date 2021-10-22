@@ -8,6 +8,11 @@
     "commit": "git-cz",
     "semantic-release": "semantic-release"
   },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  },
   "author": "Sahil Verma <iamsahil1910@gmail.com>",
   "license": "MIT",
   "repository": {
