@@ -1,6 +1,6 @@
 {
   "name": "world-countries-population-data",
-  "version": "0.0.0-development",
+  "version": "1.1.0-development",
   "description": "Population data of world, region, continent and countries since 1960",
   "main": "index.js",
   "scripts": {
