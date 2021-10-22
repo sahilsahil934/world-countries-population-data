@@ -18,5 +18,8 @@
     "continent",
     "region",
     "poulation"
-  ]
+  ],
+  "devDependencies": {
+    "jest": "27.3.1"
+  }
 }
