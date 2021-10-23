@@ -1,12 +1,17 @@
 {
   "name": "world-countries-population-data",
-  "version": "0.0.0-development",
+  "version": "1.1.7-development",
   "description": "Population data of world, region, continent and countries since 1960",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "commit": "git-cz",
     "semantic-release": "semantic-release"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
   },
   "author": "Sahil Verma <iamsahil1910@gmail.com>",
   "license": "MIT",
